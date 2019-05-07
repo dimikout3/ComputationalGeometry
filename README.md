@@ -36,3 +36,8 @@ Jim stays at point (0,0).
 There is a mirror at point (Xm,Ym) and a wall between points (X1,Y1) and (X2,Y2).
 
 Jim wants to find out if he can point the laser beam on the mirror.
+
+--- PolarAngles --- 
+
+A point (x,y), on the cartesian plane, makes an angle theta with the positive direction of the x-axis. Theta varies in the interval [0 ,2PI) radians, i.e, greater than or equal to zero; but less than 2*PI radians.
+
